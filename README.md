@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Trigger a random bash.org quite by typing ``!bash`` in chat.`
+
+## Links
+
+* [isis-plugin-bash on RubyGems](https://rubygems.org/gems/isis-plugin-bash)
